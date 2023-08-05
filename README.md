@@ -12,6 +12,7 @@ The main model is implemented in the file graphwavenet.py
   
 # Instructions
 Run main.py. 
+
 Note: Before running this file, run the following command to generate the dataset
 python generate_data.py
 
