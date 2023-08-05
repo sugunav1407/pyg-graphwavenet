@@ -10,7 +10,7 @@ We have tested the code on the METR-LA dataset, which is also used by the exampl
 
 The main model is implemented in the file graphwavenet.py
   
-#Instructions
+# Instructions
 Run main.py. 
 Note: Before running this file, run the following command to generate the dataset
 python generate_data.py
